@@ -48,6 +48,9 @@ The `StateGraph` logic orchestrates the agents in a recursive loop until the ent
 5.  **Completion**: The `chunk_and_advance` node saves the results and checks if more pages remain.
 
 ---
+![Banner](flow.png)
+
+---
 
 ## 📥 Input & 📤 Output
 
